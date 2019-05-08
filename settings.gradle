@@ -1,0 +1,4 @@
+include 'catalog-service'
+include 'order-service'
+include 'invoice-service'
+include 'delivery-service'
