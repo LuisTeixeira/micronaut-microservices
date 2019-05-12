@@ -1,6 +1,6 @@
 package com.lfmteixeira.catalog.repository;
 
-import com.lfmteixeira.catalog.models.Product;
+import com.lfmteixeira.catalog.model.Product;
 
 import javax.inject.Singleton;
 import java.util.ArrayList;

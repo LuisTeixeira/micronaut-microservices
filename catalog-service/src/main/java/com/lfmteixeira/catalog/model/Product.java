@@ -1,4 +1,4 @@
-package com.lfmteixeira.catalog.models;
+package com.lfmteixeira.catalog.model;
 
 public class Product {
 

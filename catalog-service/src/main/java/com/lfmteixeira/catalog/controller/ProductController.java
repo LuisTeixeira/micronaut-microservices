@@ -1,6 +1,6 @@
 package com.lfmteixeira.catalog.controller;
 
-import com.lfmteixeira.catalog.models.Product;
+import com.lfmteixeira.catalog.model.Product;
 import com.lfmteixeira.catalog.repository.ProductRepository;
 import io.micronaut.http.annotation.Body;
 import io.micronaut.http.annotation.Controller;
